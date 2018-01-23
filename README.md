@@ -1,0 +1,2 @@
+# gomoku-react
+gomoku game
